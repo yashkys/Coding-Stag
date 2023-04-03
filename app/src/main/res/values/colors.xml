@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="app_background">#383C52</color>
+    <color name="edt_background">#31354A</color>
+    <color name="shade_black">#080711</color>
+    <color name="colorAccent">#BE5859</color>
+    <color name="colorAccent2">#8DBAFF</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#B3B3B3</color>
+    <color name="colorEditTextBackground">#3D3D3D</color>
+    <color name="colorEditTextHint">#B3B3B3</color>
+    <color name="colorButtonBackground">#673AB7</color>
+    <color name="colorButtonBackgroundDark">#45257E</color>
 </resources>

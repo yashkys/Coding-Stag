@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701147888838",
+    "project_id": "coding-stag",
+    "storage_bucket": "coding-stag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701147888838:android:3d0cfb1494582cf08d6bc7",
+        "android_client_info": {
+          "package_name": "com.example.codingstag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701147888838-riggqckrse410gkr0f37k6ifdk1t7eu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52SANEdluGuly_faQg-m9Q0UHu5YLCwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701147888838-riggqckrse410gkr0f37k6ifdk1t7eu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
